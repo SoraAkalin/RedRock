@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+.i {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255)
+}
+.z{
+    font-family: KaiTi;
+    color: whitesmoke;
+    font-size:20px
+}
+.x {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+    font-size: 60px
+}
+
+body {background-image:url(https://i0.hdslb.com/bfs/album/26e0fd15158d43c7a8972cbf54fd49587e9e86c6.png);background-size:cover}
